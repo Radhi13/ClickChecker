@@ -12,7 +12,7 @@ By analyzing log data, enterprises can more readily identify potential threats a
 * 6B+ Requests
 
 # Pipeline
-![GitHub Logo](/images/pipeline.png)
+![GitHub Logo](/docs/pipeline.png)
 Format: ![Alt Text](url)
 
 * Initially Logdata is stored in a S3 Bucket
