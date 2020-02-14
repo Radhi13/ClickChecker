@@ -18,3 +18,6 @@ Format: ![Alt Text](url)
 * Initially Logdata is stored in a S3 Bucket
 * Spark convets the csv files to parquet
 * Dash is used develop the web application
+
+# Presentation link
+Link to the presentation: [ClickChecker](https://docs.google.com/presentation/d/1Wpjc7b85ut5BtaOwysQbTulW6dZ_S2j5ONbN9iG-YVk/edit#slide=id.p)
