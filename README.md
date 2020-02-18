@@ -13,11 +13,13 @@ By analyzing log data, enterprises can more readily identify potential threats a
 
 # Pipeline
 ![GitHub Logo](/docs/pipeline.png)
-Format: ![Alt Text](url)
 
-* Initially Logdata is stored in a S3 Bucket
-* Spark convets the csv files to parquet
-* Dash is used develop the web application
+* Initially SEC's EDGAR Logdata is stored in a S3 Bucket 
+* Spark convets the csv files to parquet file format
+* AWS Athena is use to query the partioned data
+* Dash is used to develop the web application
 
 # Presentation link
 Link to the presentation: [ClickChecker](https://docs.google.com/presentation/d/1Wpjc7b85ut5BtaOwysQbTulW6dZ_S2j5ONbN9iG-YVk/edit#slide=id.p)
+Link to my websites: [strategicanalytics](http://strategicanalytics.club/)
+
