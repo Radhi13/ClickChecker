@@ -26,5 +26,5 @@ SEC has made its [Log Data](https://www.sec.gov/dera/data/edgar-log-file-data-se
 * Link to my websites: [strategicanalytics](http://strategicanalytics.club/)
 
 ## References
-* [AWS Athena:](https://aws.amazon.com/athena/)
-* [AWS SDK for Python:] (https://boto3.readthedocs.io/en/latest/reference/services/athena.html)
+* [AWS Athena](https://aws.amazon.com/athena/)
+* [AWS SDK for Python](https://boto3.readthedocs.io/en/latest/reference/services/athena.html)
