@@ -1,4 +1,4 @@
-# ClickChecker... Every Click Matters
+# ClickChecker... *Every Click Matters*
 # Table of Content
 1. [Motivation](#Motivation)
 2. [Data](#Data)
