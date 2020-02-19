@@ -8,7 +8,7 @@ SEC has made public its [server log][log] files for its EDGAR system. The data d
 By analyzing log data, enterprises can more readily identify potential threats and other issues, find the root cause, and initiate a rapid response to mitigate risks.
 
 ## Data 
-##**SEC’s EDGAR Log dataset**
+**SEC’s EDGAR Log dataset**
 * 750 GB 
 * 13M+ Filings/year
 * 38K+ FormTypes
@@ -23,6 +23,6 @@ By analyzing log data, enterprises can more readily identify potential threats a
 * Dash is used to develop the web application
 
 # Presentation link
-Link to the presentation: [ClickChecker](https://docs.google.com/presentation/d/1Wpjc7b85ut5BtaOwysQbTulW6dZ_S2j5ONbN9iG-YVk/edit#slide=id.p)
-Link to my websites: [strategicanalytics](http://strategicanalytics.club/)
+* Link to the presentation: [ClickChecker](https://docs.google.com/presentation/d/1Wpjc7b85ut5BtaOwysQbTulW6dZ_S2j5ONbN9iG-YVk/edit#slide=id.p)
+* Link to my websites: [strategicanalytics](http://strategicanalytics.club/)
 
